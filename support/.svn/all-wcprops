@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pingan/!svn/ver/5010/server/pingan/lottery_zh/branches/lot_zhuihao/features/support
+END
+lot_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pingan/!svn/ver/5010/server/pingan/lottery_zh/branches/lot_zhuihao/features/support/lot_helper.rb
+END
+expections.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pingan/!svn/ver/4147/server/pingan/lottery_zh/branches/lot_zhuihao/features/support/expections.rb
+END
+hooks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pingan/!svn/ver/4197/server/pingan/lottery_zh/branches/lot_zhuihao/features/support/hooks.rb
+END
+env.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pingan/!svn/ver/4638/server/pingan/lottery_zh/branches/lot_zhuihao/features/support/env.rb
+END
